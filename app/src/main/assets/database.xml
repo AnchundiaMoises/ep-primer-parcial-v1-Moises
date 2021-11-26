@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <class name="user">
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff00">
+            <properties>
+                <property name="email"><![CDATA[movil@facci.com]]></property>
+                <property name="password"><![CDATA[hello]]></property>
+            </properties>
+        </object>
+    </class>
+    <class name="item">
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff01">
+            <properties>
+                <property name="type"><![CDATA[control]]></property>
+                <property name="name"><![CDATA[Microsoft Xbox Wireless Controller]]></property>
+                <property name="description"><![CDATA[Lleve su experiencia de juego al siguiente nivel con el controlador inalámbrico Xbox de Microsoft en color negro carbón. Su superficie esculpida está diseñada para garantizar la comodidad al jugar durante largas horas, mientras que los agarres texturizados y el D-pad híbrido con bordes elevados te ayudan a mantenerte en el objetivo.]]></property>
+                <property name="price"><![CDATA[59,99]]></property>
+                <property name="image"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff10.jpg]]></property>
+            </properties>
+        </object>
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff02">
+            <properties>
+                <property name="type"><![CDATA[aspiradora]]></property>
+                <property name="name"><![CDATA[Aspiradora Robot inteligente]]></property>
+                <property name="description"><![CDATA[Robot aspirador inteligente, facilita y simplifica las labores de limpieza en tu hogar y oficina]]></property>
+                <property name="price"><![CDATA[180.00]]></property>
+                <property name="image"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff11.jpg]]></property>
+            </properties>
+        </object>
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff03">
+            <properties>
+                <property name="type"><![CDATA[audifonos]]></property>
+                <property name="name"><![CDATA[Sony Audífonos BT Noise Cancelling]]></property>
+                <property name="description"><![CDATA[Noise cancelling, Ya estés en un vuelo largo o relajándote en una cafetería, los WH-1000XM4 ofrecen el mejor rendimiento de noise cancelling de la historia de Sony, que anula aún más frecuencias medias y altas.]]></property>
+                <property name="price"><![CDATA[386.99]]></property>
+                <property name="image"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff12.jpg]]></property>
+            </properties>
+        </object>
+    </class>
+</data>
